@@ -1,0 +1,16 @@
+C:\Users\Omar\source\repos\BanqueApp\BanqueApp\bin\Debug\BanqueApp.exe.config
+C:\Users\Omar\source\repos\BanqueApp\BanqueApp\bin\Debug\BanqueApp.exe
+C:\Users\Omar\source\repos\BanqueApp\BanqueApp\bin\Debug\BanqueApp.pdb
+C:\Users\Omar\source\repos\BanqueApp\BanqueApp\obj\Debug\BanqueApp.csprojAssemblyReference.cache
+C:\Users\Omar\source\repos\BanqueApp\BanqueApp\obj\Debug\BanqueApp.csproj.CoreCompileInputs.cache
+C:\Users\Omar\source\repos\BanqueApp\BanqueApp\obj\Debug\BanqueApp.exe
+C:\Users\Omar\source\repos\BanqueApp\BanqueApp\obj\Debug\BanqueApp.pdb
+D:\BanqueApp\BanqueApp\obj\Debug\BanqueApp.exe
+D:\BanqueApp\BanqueApp\obj\Debug\BanqueApp.pdb
+C:\Users\user\source\repos\BanqueApp\BanqueApp\obj\Debug\BanqueApp.csprojAssemblyReference.cache
+C:\Users\user\source\repos\BanqueApp\BanqueApp\obj\Debug\BanqueApp.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\BanqueApp\BanqueApp\obj\Debug\BanqueApp.exe
+C:\Users\user\source\repos\BanqueApp\BanqueApp\obj\Debug\BanqueApp.pdb
+C:\Users\user\source\repos\BanqueApp\BanqueApp\bin\Debug\BanqueApp.exe.config
+C:\Users\user\source\repos\BanqueApp\BanqueApp\bin\Debug\BanqueApp.exe
+C:\Users\user\source\repos\BanqueApp\BanqueApp\bin\Debug\BanqueApp.pdb
